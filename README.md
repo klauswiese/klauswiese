@@ -1,4 +1,6 @@
-### Hola :) 👋
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Hola, soy Klaus :wave:&nbsp;
+</h1>
 
 <!--
 **klauswiese/klauswiese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
