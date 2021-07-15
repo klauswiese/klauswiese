@@ -2,7 +2,7 @@
   &nbsp;Hola, soy Klaus :wave:&nbsp;
 </h1>
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)]
+![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
 [![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://en.wikipedia.org/wiki/Elijah_Wood)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://ubuntu.com/)
