@@ -3,13 +3,14 @@
 </h1>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)]
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
+[![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://en.wikipedia.org/wiki/Elijah_Wood)
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://ubuntu.com/)
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)]
+[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)]
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)]
 
+All badges came from [here](https://forthebadge.com)
 
 <!--
 **klauswiese/klauswiese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
