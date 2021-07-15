@@ -2,6 +2,7 @@
   &nbsp;Hola, soy Klaus :wave:&nbsp;
 </h1>
 
+<h1 align="center">
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
@@ -10,6 +11,7 @@
 ![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)
 ![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
 ![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
+</h1>
 
 All badges came from [here](https://forthebadge.com)
 
