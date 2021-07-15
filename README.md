@@ -12,9 +12,7 @@
 ![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
 
 
-<h1 align="center">
 All badges came from [here](https://forthebadge.com)
-</h1>
 
 <!--
 **klauswiese/klauswiese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
