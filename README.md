@@ -9,6 +9,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://ubuntu.com/)
 ![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)
 ![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 All badges came from [here](https://forthebadge.com)
 
