@@ -6,9 +6,9 @@
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 ![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
-![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://en.wikipedia.org/wiki/Elijah_Wood)
+[![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://en.wikipedia.org/wiki/Elijah_Wood)
 
-![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://ubuntu.com/)
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://ubuntu.com/)
 ![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)
 
 ![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
