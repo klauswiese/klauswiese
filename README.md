@@ -2,6 +2,8 @@
   &nbsp;Hola, soy Klaus :wave:&nbsp;
 </h1>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=klauswiese.klauswiese)
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://en.wikipedia.org/wiki/Nikola_Tesla)
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
