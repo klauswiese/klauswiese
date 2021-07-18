@@ -7,10 +7,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://en.wikipedia.org/wiki/Nikola_Tesla)
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-
 ![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
-[![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://en.wikipedia.org/wiki/Elijah_Wood)
 
+[![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://en.wikipedia.org/wiki/Elijah_Wood)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://ubuntu.com/)
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://gameofthrones.fandom.com/wiki/Arya_Stark)
 
