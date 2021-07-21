@@ -17,7 +17,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://www.lenovo.com/us/en/workstation/thinkstation/thinkstation-p-series/ThinkStation-P300/p/33TS3TPP300)
 
 
-All badges came from [here](https://forthebadge.com)
+
 
 
 <!-- <a href="https://www.input-fields.com/"> -->
@@ -27,6 +27,8 @@ All badges came from [here](https://forthebadge.com)
 
 
 <!--
+
+All badges came from [here](https://forthebadge.com)
 **klauswiese/klauswiese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
