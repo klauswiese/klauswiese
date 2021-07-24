@@ -5,10 +5,6 @@
   &nbsp;Hola, soy Klaus :wave:&nbsp;
 </h1>
 
-[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://gameofthrones.fandom.com/wiki/Arya_Stark)
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://www.youtube.com/watch?v=TKYALsp-sIg)
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://www.lenovo.com/us/en/workstation/thinkstation/thinkstation-p-series/ThinkStation-P300/p/33TS3TPP300)
-
   <p align="center">
     <br />
     <a href="https://en.wikipedia.org/wiki/Nikola_Tesla">
