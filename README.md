@@ -5,10 +5,6 @@
   &nbsp;Hola, soy Klaus :wave:&nbsp;
 </h1>
 
-
-[![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://en.wikipedia.org/wiki/Elijah_Wood)
-[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://ubuntu.com/)
-
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://gameofthrones.fandom.com/wiki/Arya_Stark)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://www.youtube.com/watch?v=TKYALsp-sIg)
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://www.lenovo.com/us/en/workstation/thinkstation/thinkstation-p-series/ThinkStation-P300/p/33TS3TPP300)
@@ -31,6 +27,17 @@
     <a href="https://ubuntu.com/">
       <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg"/>
     </a>
+      <br />
+    <a href="https://gameofthrones.fandom.com/wiki/Arya_Stark">
+      <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"/>
+    </a>
+    <a href="https://www.youtube.com/watch?v=TKYALsp-sIg">
+      <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
+    </a>
+    <a href="https://www.lenovo.com/us/en/workstation/thinkstation/thinkstation-p-series/ThinkStation-P300/p/33TS3TPP300">
+      <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/>
+    </a>
+
   </p>
 
 
