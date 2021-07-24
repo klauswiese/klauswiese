@@ -21,8 +21,11 @@
     <a href="https://en.wikipedia.org/wiki/Nikola_Tesla">
       <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg"/>
     </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    <a href="">
+      <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+    </a>
+    <a href="">
+      <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
     </a>
   </p>
 
