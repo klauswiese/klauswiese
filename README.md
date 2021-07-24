@@ -5,9 +5,6 @@
   &nbsp;Hola, soy Klaus :wave:&nbsp;
 </h1>
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://en.wikipedia.org/wiki/Nikola_Tesla)
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://en.wikipedia.org/wiki/Elijah_Wood)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://ubuntu.com/)
@@ -26,6 +23,13 @@
     </a>
     <a href="">
       <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
+    </a>
+    <br />
+    <a href="https://en.wikipedia.org/wiki/Elijah_Wood">
+      <img src="https://forthebadge.com/images/badges/certified-elijah-wood.svg"/>
+    </a>
+    <a href="https://ubuntu.com/">
+      <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg"/>
     </a>
   </p>
 
