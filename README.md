@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=klauswiese.klauswiese) [![Github](https://img.shields.io/github/followers/klauswiese?label=Follow&style=social)](https://github.com/klauswiese) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Hondunauta1.svg?style=social&label=%20%40Hondunauta)](https://twitter.com/Hondunauta1)
-[![Repos Badge](https://badges.pufler.dev/repos/klauswiese)
-![Years Badge](https://badges.pufler.dev/years/klauswiese)]
+![Repos Badge](https://badges.pufler.dev/repos/klauswiese)
+![Years Badge](https://badges.pufler.dev/years/klauswiese)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/klauswiese)
 
 
